@@ -77,7 +77,7 @@ React 18 SPA (Vercel)  →  Flask API (Render)  →  MongoDB Atlas
 
 ## 📸 Screenshots
 
-> _Pending — will be added shortly._
+> ![alt text](image.png), ![alt text](image-1.png)
 
 ---
 
