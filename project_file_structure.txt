@@ -1,4 +1,0 @@
-api-contract.md
-architecture.md
-LICENSE
-README.md
